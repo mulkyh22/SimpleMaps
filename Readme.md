@@ -1,6 +1,5 @@
 # SimpleMaps
- Simple Maps Application based on Java
- 10120146 - IF4
+Simple Maps Application based on Java
 
 Screenshots :
 
