@@ -64,3 +64,6 @@ public class FragmentProfile extends Fragment {
         return inflater.inflate(R.layout.fragment_profile, container, false);
     }
 }
+
+//Signature :
+//10120146 - Irshal Mulky H - IF4
